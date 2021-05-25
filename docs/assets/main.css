@@ -1,0 +1,16 @@
+.datos-personales{margin-top:30px}@media only screen and (min-width: 500px){.datos-personales{display:flex;flex-flow:row wrap;height:300px;justify-content:space-evenly}}.datos-personales h2{margin-top:0}.input{outline:none;border:1px solid #B0B0AE;border-radius:20px;padding:10px;width:300px;margin-left:20px;background-color:rgba(255,255,255,0);margin:10px 0}.select{width:300px;margin-left:20px;outline:none;border:1px solid #B0B0AE;border-radius:20px;padding:10px;background-color:rgba(255,255,255,0);margin:10px 0}.button{background-color:rgba(255,255,255,0);outline:none;display:block;border:1px solid #B0B0AE;border-radius:20px;padding:5px 30px;width:200px;align-self:flex-end;cursor:pointer;margin:40px 0;transition:all .3s ease}.boton:hover{background-color:lightgray}@media only screen and (min-width: 500px){.boton{display:inline-block}}.number{font-weight:bold;font-size:30px;color:#fe4918}
+
+.logo{display:flex;justify-content:space-between;align-items:center;color:black}a{text-decoration:none}
+
+header{display:flex;justify-content:space-between;align-items:center;margin:5px 30px;border-bottom:#dbdbdb 1px solid}.navigation{background-color:#f0f8ff;text-align:right}.navigation a{display:block;color:black;text-decoration:none;padding:5px}.navigation a:hover{text-decoration:underline}.drop-down{display:none;position:absolute;margin:-10px 0 0 -90px;background-color:#f0f8ff}.navigation:hover>.drop-down{display:inline}
+
+.navigation.footer{margin:30px 0;padding:30px 0;border-top:#dbdbdb 1px solid}.navigation-footer a{color:black;text-decoration:none;padding:5px}
+
+.contenedor{max-width:90%;margin:0 auto}
+
+.login{display:flex;flex-direction:column;margin:40px auto;border:solid #dbdbdb 1px;border-radius:20px;padding:10px}.button{margin:15px auto}.button:hover{background-color:#00000025}@media only screen and (min-width: 400px){.login{display:flex;align-items:center;justify-content:center;flex-direction:column;max-width:50%;margin:60px auto;border:1px solid #dbdbdb;border-radius:20px;padding:30px 0;text-align:center}}
+
+.Error{min-height:100vh;max-height:100%;margin:0 auto;text-align:center;padding:60px 0}a{color:black;text-decoration:none}a:hover{text-decoration:underline}
+
+body{margin:0;background-color:#f0f8ff;font-family:"Open Sans",sans-serif}
+
